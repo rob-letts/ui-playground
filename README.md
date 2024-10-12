@@ -1,15 +1,15 @@
 # Vue Starter
 
 Key Dependencies:
-- Cypress
-- ESLint
-- Pinia
-- Storybook
-- TypeScript
-- Vite
-- Vitest
-- Vue
-- Vue Router
-- Vue Test Utils
-- VueUse (Core)
-- VueUse (Motion)
+- UI Framework: Vue
+- Routing: Vue Router
+- Store: Pinia
+- Composable Library: VueUse (Core)
+- Animation Library: VueUse (Motion)
+- Type Safety: TypeScript
+- Bundler: Vite
+- Linting: ESLint
+- Unit Testing: Vitest
+- Component Testing: Vue Test Utils
+- E2E Testing: Cypress
+- Component Library: Storybook
